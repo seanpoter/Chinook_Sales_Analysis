@@ -4,11 +4,11 @@ You can learn more about the original database here: https://github.com/lerocha/
 
 The objective of this project is to answer some basic business questions using various SQL queries and techniques. In particular, some skills highlighted are:
 
-Joins
-Group By
-CTEs
-Integration with Python / Pandas for visualization
-Views
-Windows Functions
+- Joins
+- Group By
+- CTEs
+- Integration with Python / Pandas for visualization
+- Views
+- Windows Functions
 
 Please note - some formatting has been changed to be easily viewable in github. 
